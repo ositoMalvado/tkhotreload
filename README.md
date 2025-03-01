@@ -15,7 +15,7 @@ A powerful hot reload utility for Tkinter applications that enables real-time co
 Install TkinterHotReload using pip:
 
 ```bash
-pip install tkhotreload
+pip install tkhotreload --upgrade
 ```
 
 ## Quick Start
